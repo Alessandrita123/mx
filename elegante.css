@@ -1,0 +1,54 @@
+header{
+background-color: beige;
+  font-family: cursive;
+    margin: -12px;
+    padding: 30px;
+}
+nav{
+    background-color: darksalmon;
+    display: flex; /*CENTAR LA BARRA DE NAVEGACIÓN*/
+    justify-content: center;
+    text-align: center;
+    font-size: 40px;
+    grid-gap: 80px;
+}
+body{
+    background-color: #C099E4;
+    
+}
+.parrafo1{
+    font-family: monospace;
+    font-size: 20px;
+    font-style: italic;
+    background-color:bisque;
+    box-shadow: 10px;
+    text-align: justify;
+    text-decoration:line-through;
+    
+}
+aside{
+    background-color:antiquewhite;
+    float: right;
+    padding: 50px;
+    font-size: 15px;
+    font-family: monospace;
+    
+    
+}
+section{
+    background-color: aquamarine;
+   margin-top: 260px;
+    
+}article{
+    background-color:darkorange;
+   margin-top: 60px;
+    
+}
+footer{
+    background-color: blueviolet;
+    justify-content: center;
+    width: 1260px;
+    height: 130px;
+   font-family: cursive;
+    font: 100px;
+}
